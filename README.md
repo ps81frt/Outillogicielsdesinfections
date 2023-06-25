@@ -37,4 +37,6 @@ Adw-Cleaner
 Description :
 
 
-utilitaire de suppression d'adware le plus populaire détecte et élimine les programmes indésirables et autres junkwares 
+utilitaire de suppression d'adware le plus populaire détecte et élimine les programmes indésirables et autres junkwares.
+
+https://fr.malwarebytes.com/adwcleaner/
